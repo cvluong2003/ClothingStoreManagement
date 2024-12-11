@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using API.DataTranferObject;
+using Microsoft.AspNetCore.JsonPatch;
+using Azure;
 namespace API.Controllers
 {
     [Route("api/[controller]")]
@@ -31,6 +33,24 @@ namespace API.Controllers
             {
                 return BadRequest("Input is invalid");
             }
+        }
+        [HttpPatch("{id}")]
+        public async Task<ActionResult> PatchQiantityProduct(int id,[FromBody] int quantity)
+        {
+            
+           bool rs=await _productService.updateQuantityProduct(id.ToString(),quantity);
+           if (rs)
+           {
+                return NoContent();
+           }
+           else{
+                if(!ModelState.IsValid)
+                {
+                    return BadRequest("Model is invalid");
+
+                }
+                return NotFound();
+           }
         }
     }
 }
