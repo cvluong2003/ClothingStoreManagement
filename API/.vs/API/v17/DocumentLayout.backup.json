@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\datatranferobject\\productsdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\datatranferobject\\productsdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\datatranferobject\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\datatranferobject\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\mapping\\mappingcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\mapping\\mappingcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\mapping\\mappingcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\mapping\\mappingcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\mapping\\mappingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\mapping\\mappingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\model\\iproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\model\\iproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\datatranferobject\\sizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\datatranferobject\\sizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\datatranferobject\\manufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\datatranferobject\\manufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\datatranferobject\\colorsizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\datatranferobject\\colorsizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\datatranferobject\\colordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\datatranferobject\\colordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\api\\datatranferobject\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA95BCA-D26F-41C5-B557-A50B0F302BC1}|API\\API.csproj|solutionrelative:api\\datatranferobject\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\dal\\dbcontext\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|solutionrelative:dal\\dbcontext\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\dal\\dbcontext\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|solutionrelative:dal\\dbcontext\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\dal\\dbcontext\\colorsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|solutionrelative:dal\\dbcontext\\colorsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\dal\\dbcontext\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|solutionrelative:dal\\dbcontext\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\dal\\dbcontext\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|solutionrelative:dal\\dbcontext\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|c:\\users\\luong.cao\\intern\\clothingstoremanagementvisual\\api\\dal\\dbcontext\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868878BA-C4F7-45A2-992E-E6BB5FFE4590}|DAL\\DAL.csproj|solutionrelative:dal\\dbcontext\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsDTOPost.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ProductsDTOPost.cs",
+              "RelativeDocumentMoniker": "API\\DataTranferObject\\ProductsDTOPost.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ProductsDTOPost.cs",
+              "RelativeToolTip": "API\\DataTranferObject\\ProductsDTOPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:48:05.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "API\\DataTranferObject\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ProductDTO.cs",
+              "RelativeToolTip": "API\\DataTranferObject\\ProductDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:05:25.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:36:21.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "API\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Service\\IProductService.cs",
+              "RelativeToolTip": "API\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:23:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "API\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Service\\ProductService.cs",
+              "RelativeToolTip": "API\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:22:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProduct.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Mapping\\MappingProduct.cs",
+              "RelativeDocumentMoniker": "API\\Mapping\\MappingProduct.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Mapping\\MappingProduct.cs",
+              "RelativeToolTip": "API\\Mapping\\MappingProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:15:15.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingColor.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Mapping\\MappingColor.cs",
+              "RelativeDocumentMoniker": "API\\Mapping\\MappingColor.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Mapping\\MappingColor.cs",
+              "RelativeToolTip": "API\\Mapping\\MappingColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:14:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingCategory.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Mapping\\MappingCategory.cs",
+              "RelativeDocumentMoniker": "API\\Mapping\\MappingCategory.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Mapping\\MappingCategory.cs",
+              "RelativeToolTip": "API\\Mapping\\MappingCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:33:31.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Model\\ProductModel.cs",
+              "RelativeDocumentMoniker": "API\\Model\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Model\\ProductModel.cs",
+              "RelativeToolTip": "API\\Model\\ProductModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:25:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Model\\IProductModel.cs",
+              "RelativeDocumentMoniker": "API\\Model\\IProductModel.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Model\\IProductModel.cs",
+              "RelativeToolTip": "API\\Model\\IProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:27:17.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:34:18.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:13:45.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\WeatherForecast.cs",
+              "RelativeToolTip": "API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:34:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T03:48:25.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SizeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\SizeDTO.cs",
+              "RelativeDocumentMoniker": "API\\DataTranferObject\\SizeDTO.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\SizeDTO.cs",
+              "RelativeToolTip": "API\\DataTranferObject\\SizeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:05:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManufacturerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ManufacturerDTO.cs",
+              "RelativeDocumentMoniker": "API\\DataTranferObject\\ManufacturerDTO.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ManufacturerDTO.cs",
+              "RelativeToolTip": "API\\DataTranferObject\\ManufacturerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:05:21.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ColorSizeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ColorSizeDTO.cs",
+              "RelativeDocumentMoniker": "API\\DataTranferObject\\ColorSizeDTO.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ColorSizeDTO.cs",
+              "RelativeToolTip": "API\\DataTranferObject\\ColorSizeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:05:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ColorDTO.cs",
+              "RelativeDocumentMoniker": "API\\DataTranferObject\\ColorDTO.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\ColorDTO.cs",
+              "RelativeToolTip": "API\\DataTranferObject\\ColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:05:12.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "API\\DataTranferObject\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\API\\DataTranferObject\\CategoryDTO.cs",
+              "RelativeToolTip": "API\\DataTranferObject\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:05:05.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\DBContext\\Category.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Category.cs",
+              "RelativeToolTip": "DAL\\DBContext\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:00:07.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Color.cs",
+              "RelativeDocumentMoniker": "DAL\\DBContext\\Color.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Color.cs",
+              "RelativeToolTip": "DAL\\DBContext\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:00:08.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ColorSize.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\ColorSize.cs",
+              "RelativeDocumentMoniker": "DAL\\DBContext\\ColorSize.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\ColorSize.cs",
+              "RelativeToolTip": "DAL\\DBContext\\ColorSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:00:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "DAL\\DBContext\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Manufacturer.cs",
+              "RelativeToolTip": "DAL\\DBContext\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:00:09.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Size.cs",
+              "RelativeDocumentMoniker": "DAL\\DBContext\\Size.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\Size.cs",
+              "RelativeToolTip": "DAL\\DBContext\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:00:11.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\StoreContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DBContext\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\luong.cao\\Intern\\ClothingStoreManagementVisual\\API\\DAL\\DBContext\\StoreContext.cs",
+              "RelativeToolTip": "DAL\\DBContext\\StoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:59:48.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
