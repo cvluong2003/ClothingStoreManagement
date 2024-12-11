@@ -1,5 +1,6 @@
 ﻿using API.DataTranferObject;
 using API.Model;
+using Microsoft.AspNetCore.JsonPatch;
 
 namespace API.Service
 {
@@ -10,11 +11,11 @@ namespace API.Service
         public ProductService(IProductModel productModel) { 
             _productModel = productModel;
         }
-        public async Task<List<ProductDTO>> getAllProduct()
+        public async Task<List<ProductDTOGet>> getAllProduct()
         {
             return await _productModel.getAllProduct();
         }
-         public async Task<bool> postProduct(ProductDTO proDTO)
+         public async Task<bool> postProduct(ProductsDTOPost proDTO)
         {
             proDTO.ProductId = await createNewID();
             return await _productModel.postProduct(proDTO);
@@ -29,5 +30,11 @@ namespace API.Service
             string newID = string.Concat(preFix, newLastFix);
             return newID;
         }
+        public async Task<bool> updateQuantityProduct(string ProductId,int  docQuantity)
+        {
+            string formatProductID=string.Concat("P",ProductId.PadLeft(3, '0'));
+            return await _productModel.updateQuantityProduct(formatProductID, docQuantity);
+        }
+        // 
     }
 }

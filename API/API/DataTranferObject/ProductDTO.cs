@@ -16,6 +16,6 @@ public partial class ProductDTO
     public string? ManufacturerId { get; set; }
 
     public string? CategoryId { get; set; }
-
+    //  public string? Status { get; set; }
    
 }
