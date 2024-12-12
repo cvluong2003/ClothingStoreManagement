@@ -12,3 +12,4 @@ C:\Users\luong.cao\Intern\ClothingStoreManagementVisual\API\DAL\obj\Debug\net8.0
 C:\Users\luong.cao\Intern\ClothingStoreManagementVisual\API\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
 C:\Users\luong.cao\Intern\ClothingStoreManagementVisual\API\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
 C:\Users\luong.cao\Intern\ClothingStoreManagementVisual\API\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+c:\Users\luong.cao\Intern\ClothingStoreManagementVisual\API\DAL\obj\Debug\net8.0\DAL.sourcelink.json

@@ -3,6 +3,7 @@ using API.Model;
 using DAL.DBContext;
 using Microsoft.EntityFrameworkCore;
 using API.Mapping;
+using API.MiddleWare;
 internal class Program
 {
     private static void Main(string[] args)
@@ -20,6 +21,7 @@ internal class Program
         builder.Services.AddAutoMapper(typeof(MappingCategory));
         builder.Services.AddScoped<IProductService, ProductService>();
         builder.Services.AddScoped<IProductModel, ProductModel>();
+
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.
@@ -30,8 +32,9 @@ internal class Program
         }
 
         app.UseHttpsRedirection();
-
+        app.UseRouting();
         app.UseAuthorization();
+        app.UseMiddleware<RequestLoggingMiddleware>();
 
         app.MapControllers();
 
